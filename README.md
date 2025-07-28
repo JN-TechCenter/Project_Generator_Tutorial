@@ -57,7 +57,7 @@
 **推荐模版** `.trae\rules\project_rules.md`
 ```markdown
 # 严格执行，不能遗漏以下任何要求
- ## 文件维护(根据一下文件要求，实时听从调遣，并维护这些文件更新)
+ ## 文件维护(根据以下文件要求，实时听从调遣，并维护这些文件更新)
   - WORK_PLAN.md(项目计划文件)
   - WORK_TECH.md(项目技术选型文件)
   - WORK_REARCH_DEVELOP.md(项目研发文件)
