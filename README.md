@@ -1,55 +1,8 @@
+# 🚀 项目生成师教程 
+**AI驱动的全栈项目开发指南** 
 
+> ⚠️ **注意**：此教程局限与某个发展阶段的AI开发，随着AI智能体进化，教程体系与方法论会有相应变更
 
-<style>
-  .doc-banner {
-    background: linear-gradient(135deg, #2c3e50, #3498db);
-    color: white;
-    padding: 2rem;
-    border-radius: 12px;
-    margin: 2rem 0;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  }
-  .card-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1.5rem;
-    margin: 2rem 0;
-  }
-  .feature-card {
-    background: white;
-    padding: 1.5rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-    transition: transform 0.2s;
-  }
-  .feature-card:hover {
-    transform: translateY(-5px);
-  }
-  .code-badge {
-    background: #e74c3c;
-    color: white;
-    padding: 0.3rem 0.8rem;
-    border-radius: 20px;
-    font-size: 0.9em;
-    margin: 0.5rem 0;
-    display: inline-block;
-  }
-  .warning {
-    background: #fff3cd;
-    border-left: 4px solid #ffc107;
-    padding: 1rem;
-    margin: 1.5rem 0;
-  }
-</style>
-
-<div class="doc-banner">
-  <h1>项目生成师教程</h1>
-  <p>AI驱动的全栈项目开发指南 </p>
-</div>
-
-<div class="warning">
-⚠️ 注意：此教程局限与某个发展阶段的AI开发，随着AI智能体进化，教程体系与方法论会有相应变更
-</div>
 
 ## 如何生成项目
 - [确定需求](###确定需求)
